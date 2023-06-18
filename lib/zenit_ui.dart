@@ -33,6 +33,8 @@ export 'package:zenit_ui/src/layout/navigator/zenit_navigator_observer.dart';
 // Zenit tab view tab
 export 'package:zenit_ui/src/layout/tab_view/tab.dart';
 export 'package:zenit_ui/src/layout/tab_view/tab_data.dart';
+export 'package:zenit_ui/src/layout/tab_view/tab_page.dart';
+export 'package:zenit_ui/src/layout/tab_view/tab_view.dart';
 // Zenit tab view
 export 'package:zenit_ui/src/layout/tab_view/zenit_tab_bar.dart';
 // Zenit theme
