@@ -38,7 +38,7 @@ class _TabViewState extends State<TabView> {
             top: 0,
             left: 0,
             right: 0,
-            height: 44,
+            height: 40,
             child: DecoratedBox(
               decoration: BoxDecoration(
                 color: Theme.of(context).colorScheme.background,

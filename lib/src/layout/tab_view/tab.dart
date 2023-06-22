@@ -51,13 +51,13 @@ class ZenitTab extends StatelessWidget {
                 padding: const EdgeInsets.symmetric(horizontal: 8.0),
                 child: Row(
                   children: [
-                    if (icon != null) SizedBox.square(dimension: 20, child: icon),
+                    if (icon != null) SizedBox.square(dimension: 14, child: icon),
                     const SizedBox.square(dimension: 8),
                     SizedBox(
                       width: 132,
                       child: Text(
                         title,
-                        style: const TextStyle(overflow: TextOverflow.ellipsis),
+                        style: const TextStyle(fontSize: 13, overflow: TextOverflow.ellipsis),
                       ),
                     ),
                     const Spacer(),
