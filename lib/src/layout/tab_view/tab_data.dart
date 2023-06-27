@@ -1,10 +1,10 @@
 import 'package:flutter/widgets.dart';
 
 class TabData {
-  final String title;
+  String title;
   final Widget leading;
 
-  const TabData({
+  TabData({
     required this.title,
     required this.leading,
   });

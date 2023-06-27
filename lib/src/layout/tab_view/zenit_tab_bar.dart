@@ -41,7 +41,7 @@ class _ZenitTabBarState extends State<ZenitTabBar> {
     return Column(
       children: [
         SizedBox(
-          height: 48,
+          height: 40,
           child: Padding(
             padding: const EdgeInsets.symmetric(vertical: 4.0),
             child: ListView.builder(
